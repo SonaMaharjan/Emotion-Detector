@@ -1,9 +1,10 @@
 
-## Facial Emotion Detection
+# Facial Emotion Detection
+By: Shivam Sahu, Shivangi Mishra, Sona Maharjan
 
-Machine Learning Final Project
+# Project Description: 
 
-The aim of this project is to capture an image using the webcam of the laptop and recognize the facial expression in the image. There are seven categories of emotion- Angry, Disgust, Fear, Happy, Sad, Surprise, and Neutral. This project implements Convolutional Neural Networks (CNN) to classify each facial image into one of the seven facial emotion categories considered.
+The aim of our project, Facial Emotion Detection, is to capture an image using webcam of the laptop and recognize the facial expression in the image. There are seven categories of emotion- Angry, Disgust, Fear, Happy, Sad, Surprise, and Neutral. This project implements Convolutional Neural Networks (CNN) to classify each facial image into one of the seven facial emotion categories considered.
 
 # Data
 
